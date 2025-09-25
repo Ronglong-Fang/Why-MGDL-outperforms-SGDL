@@ -1,4 +1,4 @@
-This is the MGDL code for 'Section 4: Comparison of SGDL and MGDL for Image Reconstruction'.
+This is the MGDL code for 'Section 5: Performance Comparison of MGDL and SGDL'.
 
 In each Folder: 
     Run 'main_run.py' to start, the results will be stored in the results folder
