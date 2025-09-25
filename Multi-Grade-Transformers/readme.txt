@@ -1,0 +1,8 @@
+This is the MGDL code for 'Section: Multi-Grade Transformers (MGT)'.
+
+In each Folder: 
+    Run 'main_run.py' to start, the results will be stored in the results folder
+    
+    Run 'analysis_results.ipynb' to analysis after you get your results
+
+
